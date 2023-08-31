@@ -9,6 +9,9 @@
 
 ### วิธีใช้
 
+> ถ้าจะติดตั้งด้วย **npm**
+> ```npm i @jimebillie/gallery-plugin```
+
 * **1.ไฟล์ที่สำคัญ**
     * css
     ```html
