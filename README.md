@@ -4,6 +4,7 @@
 > ในการจัดหมวดหมู่ให้กับภาพถ่าย [@jimebillie](https://github.com/jimebillie) ออกแบบให้ดูสบายตา และ Classic สุด ๆ
 > ด้วย
 > CSS , JavaScript ซึ่งใช้งานง่ายมาก มีแค่ Attribute เดียวเท่านั้น !!!
+> >ทดสอบ : https://3illie.github.io/gallery-plugin/DEMO.html
 > 
 > ![mobile.png](test/mobile.png)
 
